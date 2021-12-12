@@ -1,0 +1,42 @@
+{
+    "0" : [
+        "Beagle",
+        "beagle"
+    ],
+    "1" : [
+        "Chihuahua",
+        "chihuahua"
+    ],
+    "2" : [
+        "French Bulldog",
+        "french_bulldog"
+    ],
+    "3" : [
+        "Golden Retriever",
+        "golden_retriever"
+    ],
+    "4" : [
+        "Pomeranian",
+        "pomeranian"
+    ],
+    "5" : [
+        "Pug",
+        "pug"
+    ],
+    "6" : [
+        "Rottweiler",
+        "rottweiler"
+    ],
+    "7" : [
+        "Shih-Tzu",
+        "shih-tzu"
+    ],
+    "8" : [
+        "Siberian_Husky",
+        "siberian_husky"
+    ],
+    "9" : [
+        "Yorkshire Terrier",
+        "yorkshire_terrier"
+    ]
+}
